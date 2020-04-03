@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Finalf</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_asyncmapact">Map</string>
+    <string-array name="type">
+        <item>Driving</item>
+        <item>Train</item>
+        <item>Walking</item>
+    </string-array>
+</resources>
